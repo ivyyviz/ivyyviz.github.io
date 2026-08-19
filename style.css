@@ -1,3 +1,22 @@
+/*-------Resuable colours------*/
+:root{
+    --primary-color: #243b53;
+    --text-color: #101f20;
+    --background-color: #f4f4f4;
+    --card-color: #ffffff;
+    --muted-color: #666666;
+}
+
+/*--------Basic reset ------*/
+* {
+    box-sizing:border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* -------Whoel Page -----*/
 body {
     margin: 0;
     font-family: Arial, sans-serif;
