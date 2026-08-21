@@ -67,6 +67,21 @@ h2 {
     color: var(--primary-color);
 }
 
+
+/* ------Projects------- */
+.project-details {
+    display: none;
+}
+
+.project-details.show {
+    display: block;
+}
+
+.project-button {
+    cursor: pointer;
+}
+
+
 footer {
     text-align: center;
     color: #666666;
