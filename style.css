@@ -67,6 +67,18 @@ h2 {
     color: var(--primary-color);
 }
 
+/* ------Skills-------- */
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.skill {
+    background-color: var(--background-color);
+    padding: 6px 12px;
+    border-radius: 5px;
+}
 
 /* ------Projects------- */
 .project-details {
